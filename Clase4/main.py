@@ -11,6 +11,7 @@ while True:
     print("6. Salir")
 
     opcion = input("Ingrese la opción: ")
+    
 
     if opcion == '1':
         user_id = input("Ingrese el ID del usuario: ")

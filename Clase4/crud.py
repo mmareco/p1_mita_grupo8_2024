@@ -1,5 +1,6 @@
 from data import users
 
+
 def crear_user(user):
     users.append(user)
 

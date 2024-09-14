@@ -1,6 +1,7 @@
 def recortar_texto(texto, max_len):
     return texto[:max_len]
 
+
 def formatear_texto(texto, formato):
     if formato == 'mayusculas':
         return texto.upper()
